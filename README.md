@@ -1,5 +1,5 @@
 # Ernesto Valdés Díaz
-<img src="./Ernesto.jpeg" alt="Ernesto Valdés Díaz" width="180" heigth="180" align="right" style="border-radius: 50%;" />
+<img src="./Ernesto.jpeg" alt="Ernesto Valdés Díaz" width="180" height="180" align="right" style="border-radius: 50%;" />
 
 🎓 Graduado de Ingeniería en Ciencias Informáticas de la UCI en La Habana, Cuba.  
 😊 Entusiasta y alegre, listo para mejorar y retarse a sí mismo.  
