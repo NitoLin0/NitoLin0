@@ -1,5 +1,5 @@
 # Ernesto Valdés Díaz
-<img src="./Ernesto.jpeg" alt="Ernesto Valdés Díaz" width="180" height="180" align="right" style="border-radius: 50%;" />
+<img src="./Ernesto.jpeg" alt="Ernesto Valdés Díaz" width="160" height="160" aling="right" style="border-radius: 50%;" />
 
 🎓 Graduado de Ingeniería en Ciencias Informáticas de la UCI en La Habana, Cuba.  
 😊 Entusiasta y alegre, listo para mejorar y retarse a sí mismo.  
@@ -30,31 +30,26 @@
 
 ## 🛠️ Tecnologías que uso
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-
-<!-- Generado a partir de techStackColored -->
-<span style="background-color: #3b82f6; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">CSS3</span>
-<span style="background-color: #f97316; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">HTML5</span>
-<span style="background-color: #facc15; color: black; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">JavaScript</span>
-<span style="background-color: #16a34a; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Python</span>
-<span style="background-color: #2563eb; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">TypeScript</span>
-<span style="background-color: #22d3ee; color: black; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">TailwindCSS</span>
-<span style="background-color: #9333ea; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Bootstrap</span>
-<span style="background-color: #15803d; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Django</span>
-<span style="background-color: #166534; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">DjangoREST</span>
-<span style="background-color: #65a30d; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">NodeJS</span>
-<span style="background-color: #111827; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Next.js</span>
-<span style="background-color: #06b6d4; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">React</span>
-<span style="background-color: #4f46e5; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Postgres</span>
-<span style="background-color: #60a5fa; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">SQLite</span>
-<span style="background-color: #15803d; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">MongoDB</span>
-<span style="background-color: #1e40af; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Docker</span>
-<span style="background-color: #c084fc; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Canva</span>
-<span style="background-color: #111827; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">GitHub Actions</span>
-<span style="background-color: #dc2626; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">Git</span>
-<span style="background-color: #000000; color: white; padding: 0.3rem 0.6rem; border-radius: 0.5rem; font-size: 0.9rem; display: inline-block;">GitHub</span>
-
-</div>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=092E20)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
